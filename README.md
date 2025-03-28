@@ -1,4 +1,7 @@
-# learn-java
+# beginner java projects
 
-this is just a collections of projects, combined with source-code, meant to teach the very basics of Java as a programming language.
-this should be paired with other, more rigid tutorials, and these are just sample projects.
+this is simply a collection of extremely-beginner-friendly java projects for learning the absolute basics of java. And the projects don't get harder than something like leetcode easy. 
+
+The best way to use this resource is to go through, look through the code, comprehend it, and then go and write your own version of the code.
+
+*! this is best used with other resources !*
